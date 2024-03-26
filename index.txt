@@ -1,0 +1,5 @@
+QUESTION 1 - Significance of charset utf-8
+ANSWER
+<meta charset="utf-8"> is a HTML tag used to indicate the webpages character encoding.
+In order to see the correct content, the tag's function is used which lets the browser know what character encoding was used in the HTML document.
+it determines how text is transmitted and stored. Text data is usually converted to their binary equivalents.
